@@ -1,0 +1,39 @@
+    1 set nocompatible
+    2 filetype off
+    3 set rtp+=$GOPATH/src/golang.org/x/lint/misc/vim
+    4 set rtp+=~/.vim/bundle/Vundle.vim
+    5 packadd! mathit
+    6 call vundle#begin()
+    7 Plugin 'VundleVim/Vundle.vim'
+    8 Plugin 'Shougo/neocomplete.vim'
+    9 Plugin 'L9'
+   10 "Plugin 'tyru/open-browser-github.vim'
+   11 "Plugin 'tyru/open-browser-unicode.vim'
+   12 Plugin 'Raimondi/delimitMate'
+   13 Plugin 'git://git.wincent.com/command-t.git'
+   14 Plugin 'rstacruz/sparkup',{'rtp':'vim/'}
+   15 Plugin 'iamcco/mathjax-support-for-mkdp'
+   16 Plugin 'iamcco/markdown-preview.vim'
+   17 Plugin 'Valloric/YouCompleteMe'
+   18 Plugin 'ycm-core/YouCompleteMe'
+   19 Plugin 'nsf/gocode'
+   20 Plugin 'scrooloose/syntastic'
+   21 Plugin 'SirVer/ultisnips'
+   22 Plugin 'justinmk/vim-sneak'
+   23 Plugin 'fatih/vim-go'    
+   24 Plugin 'kien/ctrlp.vim'
+   25 Plugin 'flazz/vim-colorschemes'
+   26 Plugin 'rking/ag.vim' 
+   27 Plugin 'dhruvasagar/vim-table-mode'
+   28 Plugin 'junegunn/goyo.vim'
+   29 Plugin 'easymotion/vim-easymotion'
+   30 Plugin 'junegunn/gv.vim'
+   31 Plugin 'junegunn/fzf.vim'
+   32 Plugin 'junegunn/seoul256.vim'
+   33 Plugin 'tpope/vim-fugitive'  
+   34 Plugin 'tpope/vim-rails'
+                                                                                                         
+402 lines yanked
+
+~                                                                                                                                                                      
+"vimrc.pdf" 37L, 1531B                                                                                                                               37,0-1       全部
